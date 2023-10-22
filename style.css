@@ -115,6 +115,7 @@ li ul{
     padding-left: 200px;
     padding-right: 200px;
     background:#566D7E;
+    text-align: right;
 }
 
 #objdiv{
@@ -162,6 +163,9 @@ p{
         text-align: right;
         line-height: 30px;
         /*we have a problem here*/
+    }
+    .txt{
+        text-align: right;
     }
 }
 
