@@ -329,7 +329,7 @@ p{
     }
 
     .header{
-        min-height: 20vh;
+        min-height: 30vh;
         width: 100%;
         background-image: url(images/intro.jpg);
         background-position: center;
